@@ -151,6 +151,10 @@
       padding-bottom: 15px;
     }
 
+    .attribution{
+      padding-top: 1rem;
+    }
+
     @media (max-width:1340px){
       .main img{
         width: 500px;
